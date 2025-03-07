@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🎯 **Currently working on:** Smart AgroHub & Hackathon Projects
+- 🎯 **Currently working on:** Smart AgroHub & Freelancing Projects
 - 🏆 **Achievements:** Top 5 in AI Hackathon 2024
 - 🌱 **Learning:** AI & ML with TensorFlow
 - 👨‍💻 **Tech Stack:** React, Node.js, Firebase, Python, Google Cloud
